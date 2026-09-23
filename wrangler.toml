@@ -1,0 +1,11 @@
+name = "spinogambino-app-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambino-app.de"
+HMAC_KEY = "2e3890343f3a4c212cd0fdc50be4c752fc696070b7beab72a36afb17d5a847c0"
+COOKIE_NAME = "eq6"
+PLAY_PATH = "visit-site"
+BUTTON_ID = "p72face61fe3f5b8c68c2b9c8da07cf2e"
+GATE_SALT = "1d852e2d53ad3810"
